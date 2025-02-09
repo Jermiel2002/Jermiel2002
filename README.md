@@ -1,8 +1,8 @@
 <div>
   <h1 align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140" align="left"/> 
-      Bienvenu sur mon GitHub !
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdxNnk2YXdqM2N3eGV2bmp3eDNzOWF5NmZjOWM0dG1hMWJtMmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif" width="140" align="right"/> 
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4NXR5am55MzhxaGJ6c2RvaWlhbmgxYXBkbGJ6cTl0bHdidnZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EW9huyXfakC6k/giphy.gif" width="140" align="left"/> 
+      Bienvenu dans mon monde !
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4NXR5am55MzhxaGJ6c2RvaWlhbmgxYXBkbGJ6cTl0bHdidnZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EW9huyXfakC6k/giphy.gif" width="140" align="right"/> 
   </h1>   
 </div>
 
