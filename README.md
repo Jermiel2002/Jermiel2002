@@ -9,11 +9,11 @@
 <br>
 
 <div align="center">
-  <p>Hello internet ! Moi c'est **Jermiel**, ingénieur conception et développement en alternance chez **Groupama Support et Services** et étudiant en MSc Pro Architecte Système d'Information à **Epitech Paris**. Passionné par le **cloud**, l’**architecture logicielle**, les **design patterns**, je suis sur ma route, pas comme Black M le chanteur, mais pour devenir **Cloud Solution Architect**.</p>
+  <p>Hello internet ! Moi c'est Jermiel, ingénieur conception et développement en alternance chez Groupama Support et Services et étudiant en MSc Pro Architecte Système d'Information à Epitech Paris. Passionné par le cloud, l’architecture logicielle, les design patterns, je suis sur ma route, pas comme Black M le chanteur, mais pour devenir Cloud Solution Architect.</p>
   
-  <p>Je travaille sur des projets liés au **cloud**, à la **blockchain**, et à l'**automatisation des processus critiques** dans le domaine de la fintech.</p>
+  <p>Je travaille sur des projets liés au **cloud**, à la blockchain, et à l'automatisation des processus critiques dans le domaine de la fintech.</p>
   
-  <p>🚀 Objectifs actuels : Maîtriser **Spring Boot**, **Docker**, **Maven**, **DevOps**, **Blockchain** et **AWS**, et obtenir une certification **AWS** très bientôt !</p>
+  <p>🚀 Objectifs actuels : Maîtriser Spring Boot, Docker, Maven, DevOps, Blockchain et AWS, et obtenir une certification AWS très bientôt !</p>
 </div>
 
 <br>
