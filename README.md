@@ -34,109 +34,17 @@
 </p>
 
 ---
-<h2>📚 &nbsp; Certifications</h2>
-<br>
-<div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
-    
-    <!-- Azure Fundamentals (AZ-900) -->
-    <div style="text-align: center;">
-      <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/">
-        <img alt="Azure Fundamentals" src="https://training.cellenza.com/wp-content/uploads/2021/07/AZ900.png" width="140" />
-      </a>
-      <h3>Azure Fundamentals (AZ-900)</h3>
-    </div>
-
-    <!-- TryHackMe : Junior Penetration Tester -->
-    <div style="text-align: center;">
-      <a href="https://tryhackme.com/">
-        <img alt="TryHackMe Junior Penetration Tester" src="https://img.shields.io/badge/TryHackMe-Junior%20Penetration%20Tester-blue?style=for-the-badge&logo=tryhackme" width="140" />
-      </a>
-      <h3>Junior Penetration Tester</h3>
-      <p style="line-height: 1.4; font-size: 0.9rem;">
-        Issu par TryHackMe<br>
-        Date : mars 2024<br>
-        ID : THM-SWE4J5SZRH
-      </p>
-    </div>
-
-    <!-- Google : Les outils du métier : Linux et SQL -->
-    <div style="text-align: center;">
-      <a href="https://about.google/">
-        <img alt="Google : Linux et SQL" src="https://img.shields.io/badge/Google-Linux%20%26%20SQL-red?style=for-the-badge&logo=google" width="140" />
-      </a>
-      <h3>Les outils du métier : Linux et SQL</h3>
-      <p style="line-height: 1.4; font-size: 0.9rem;">
-        Issu par Google<br>
-        Date : janv. 2024<br>
-        ID : HBKTZ3BAH2T2
-      </p>
-    </div>
-
-    <!-- Google : Connecter et protéger : réseaux et sécurité -->
-    <div style="text-align: center;">
-      <a href="https://about.google/">
-        <img alt="Google : Réseaux et Sécurité" src="https://img.shields.io/badge/Google-R%C3%A9seaux%20et%20S%C3%A9curit%C3%A9-orange?style=for-the-badge&logo=google" width="140" />
-      </a>
-      <h3>Réseaux et sécurité</h3>
-      <p style="line-height: 1.4; font-size: 0.9rem;">
-        Issu par Google<br>
-        Date : déc. 2023<br>
-        ID : NG2GFDL642E3
-      </p>
-    </div>
-
-    <!-- Google : Play It Safe: Manage Security Risks -->
-    <div style="text-align: center;">
-      <a href="https://about.google/">
-        <img alt="Google : Play It Safe" src="https://img.shields.io/badge/Google-Play%20It%20Safe-green?style=for-the-badge&logo=google" width="140" />
-      </a>
-      <h3>Play It Safe</h3>
-      <p style="line-height: 1.4; font-size: 0.9rem;">
-        Issu par Google<br>
-        Date : nov. 2023<br>
-        ID : HMW2TPBYB6RJ
-      </p>
-    </div>
-
-    <!-- Google : Foundations of Cybersecurity -->
-    <div style="text-align: center;">
-      <a href="https://about.google/">
-        <img alt="Google : Foundations of Cybersecurity" src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-blueviolet?style=for-the-badge&logo=google" width="140" />
-      </a>
-      <h3>Foundations of Cybersecurity</h3>
-      <p style="line-height: 1.4; font-size: 0.9rem;">
-        Issu par Google<br>
-        Date : oct. 2023<br>
-        ID : X5AEML5SXAJ5
-      </p>
-    </div>
-
-  </div>
-</div>
-
----
 
 <h2>💻 &nbsp; Projets en cours</h2>
-
-### 🔗 **CloudChain Finance + SmartFin Automation**
-**Description :**  
-Une solution intégrée pour le secteur **fintech**, combinant **stockage sécurisé sur blockchain (IPFS)** et **automatisation des processus financiers** avec des **smart contracts**.
-
----
-
-### 🌍 **Time Manager**
-**Description :**  
-Un outil de gestion du temps basé sur une API créée avec **Elixir (Phoenix)** et un front-end **Vue.js**.
 
 ---
 
 <h2>📫 &nbsp; Où me trouver ?</h2>
 <p>
-  <a href="https://github.com/[ton-github]" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/[ton-linkedin]" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Jermiel2002" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jermiel-kounouho/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-<p align="center">Merci pour votre visite ! 😊</p>
+<p align="center">A très vite dans la matrix ! 👽</p>
