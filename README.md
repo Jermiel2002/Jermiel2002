@@ -34,77 +34,86 @@
 </p>
 
 ---
-
 <h2>📚 &nbsp; Certifications</h2>
 <br>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem;">
-  <!-- TryHackMe : Junior Penetration Tester -->
-  <div style="text-align: center;">
-    <a href="https://tryhackme.com/">
-      <!-- Ici, nous utilisons un badge personnalisé avec shields.io -->
-      <img alt="TryHackMe Junior Penetration Tester" src="https://img.shields.io/badge/TryHackMe-Junior%20Penetration%20Tester-blue?style=for-the-badge&logo=tryhackme" width="140" />
-    </a>
-    <h3>Junior Penetration Tester</h3>
-    <p style="line-height: 1.4;">
-      Issu par TryHackMe<br>
-      Date de délivrance : mars 2024<br>
-      Identifiant : THM-SWE4J5SZRH
-    </p>
-  </div>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+    
+    <!-- Azure Fundamentals (AZ-900) -->
+    <div style="text-align: center;">
+      <a href="https://learn.microsoft.com/fr-fr/credentials/certifications/azure-fundamentals/">
+        <img alt="Azure Fundamentals" src="https://training.cellenza.com/wp-content/uploads/2021/07/AZ900.png" width="140" />
+      </a>
+      <h3>Azure Fundamentals (AZ-900)</h3>
+    </div>
 
-  <!-- Google : Les outils du métier : Linux et SQL -->
-  <div style="text-align: center;">
-    <a href="https://about.google/">
-      <img alt="Google : Linux et SQL" src="https://img.shields.io/badge/Google-Linux%20%26%20SQL-red?style=for-the-badge&logo=google" width="140" />
-    </a>
-    <h3>Les outils du métier : Linux et SQL</h3>
-    <p style="line-height: 1.4;">
-      Issu par Google<br>
-      Date de délivrance : janv. 2024<br>
-      Identifiant : HBKTZ3BAH2T2
-    </p>
-  </div>
+    <!-- TryHackMe : Junior Penetration Tester -->
+    <div style="text-align: center;">
+      <a href="https://tryhackme.com/">
+        <img alt="TryHackMe Junior Penetration Tester" src="https://img.shields.io/badge/TryHackMe-Junior%20Penetration%20Tester-blue?style=for-the-badge&logo=tryhackme" width="140" />
+      </a>
+      <h3>Junior Penetration Tester</h3>
+      <p style="line-height: 1.4; font-size: 0.9rem;">
+        Issu par TryHackMe<br>
+        Date : mars 2024<br>
+        ID : THM-SWE4J5SZRH
+      </p>
+    </div>
 
-  <!-- Google : Connecter et protéger : réseaux et sécurité des réseaux -->
-  <div style="text-align: center;">
-    <a href="https://about.google/">
-      <img alt="Google : Réseaux et Sécurité" src="https://img.shields.io/badge/Google-R%C3%A9seaux%20et%20S%C3%A9curit%C3%A9-orange?style=for-the-badge&logo=google" width="140" />
-    </a>
-    <h3>Connecter et protéger : réseaux et sécurité</h3>
-    <p style="line-height: 1.4;">
-      Issu par Google<br>
-      Date de délivrance : déc. 2023<br>
-      Identifiant : NG2GFDL642E3
-    </p>
-  </div>
+    <!-- Google : Les outils du métier : Linux et SQL -->
+    <div style="text-align: center;">
+      <a href="https://about.google/">
+        <img alt="Google : Linux et SQL" src="https://img.shields.io/badge/Google-Linux%20%26%20SQL-red?style=for-the-badge&logo=google" width="140" />
+      </a>
+      <h3>Les outils du métier : Linux et SQL</h3>
+      <p style="line-height: 1.4; font-size: 0.9rem;">
+        Issu par Google<br>
+        Date : janv. 2024<br>
+        ID : HBKTZ3BAH2T2
+      </p>
+    </div>
 
-  <!-- Google : Play It Safe: Manage Security Risks -->
-  <div style="text-align: center;">
-    <a href="https://about.google/">
-      <img alt="Google : Play It Safe" src="https://img.shields.io/badge/Google-Play%20It%20Safe-green?style=for-the-badge&logo=google" width="140" />
-    </a>
-    <h3>Play It Safe: Manage Security Risks</h3>
-    <p style="line-height: 1.4;">
-      Issu par Google<br>
-      Date de délivrance : nov. 2023<br>
-      Identifiant : HMW2TPBYB6RJ
-    </p>
-  </div>
+    <!-- Google : Connecter et protéger : réseaux et sécurité -->
+    <div style="text-align: center;">
+      <a href="https://about.google/">
+        <img alt="Google : Réseaux et Sécurité" src="https://img.shields.io/badge/Google-R%C3%A9seaux%20et%20S%C3%A9curit%C3%A9-orange?style=for-the-badge&logo=google" width="140" />
+      </a>
+      <h3>Réseaux et sécurité</h3>
+      <p style="line-height: 1.4; font-size: 0.9rem;">
+        Issu par Google<br>
+        Date : déc. 2023<br>
+        ID : NG2GFDL642E3
+      </p>
+    </div>
 
-  <!-- Google : Foundations of Cybersecurity -->
-  <div style="text-align: center;">
-    <a href="https://about.google/">
-      <img alt="Google : Foundations of Cybersecurity" src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-blueviolet?style=for-the-badge&logo=google" width="140" />
-    </a>
-    <h3>Foundations of Cybersecurity</h3>
-    <p style="line-height: 1.4;">
-      Issu par Google<br>
-      Date de délivrance : oct. 2023<br>
-      Identifiant : X5AEML5SXAJ5
-    </p>
+    <!-- Google : Play It Safe: Manage Security Risks -->
+    <div style="text-align: center;">
+      <a href="https://about.google/">
+        <img alt="Google : Play It Safe" src="https://img.shields.io/badge/Google-Play%20It%20Safe-green?style=for-the-badge&logo=google" width="140" />
+      </a>
+      <h3>Play It Safe</h3>
+      <p style="line-height: 1.4; font-size: 0.9rem;">
+        Issu par Google<br>
+        Date : nov. 2023<br>
+        ID : HMW2TPBYB6RJ
+      </p>
+    </div>
+
+    <!-- Google : Foundations of Cybersecurity -->
+    <div style="text-align: center;">
+      <a href="https://about.google/">
+        <img alt="Google : Foundations of Cybersecurity" src="https://img.shields.io/badge/Google-Foundations%20of%20Cybersecurity-blueviolet?style=for-the-badge&logo=google" width="140" />
+      </a>
+      <h3>Foundations of Cybersecurity</h3>
+      <p style="line-height: 1.4; font-size: 0.9rem;">
+        Issu par Google<br>
+        Date : oct. 2023<br>
+        ID : X5AEML5SXAJ5
+      </p>
+    </div>
+
   </div>
 </div>
-
 
 ---
 
