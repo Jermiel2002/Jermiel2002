@@ -22,12 +22,9 @@
 <h2>🛠 &nbsp; Mes compétences</h2>
 <br>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab%20CI%2FCD-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img alt="Eclipse Modeling Tools" src="https://img.shields.io/badge/Eclipse%20Modeling%20Tools-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 </p>
