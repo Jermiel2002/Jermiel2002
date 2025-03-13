@@ -40,4 +40,4 @@
 
 ---
 
-<p align="center">A très vite dans la matrix ! 👽</p>
+<p align="center">Catch you soon in the Matrix... ! 👽</p>
