@@ -9,10 +9,7 @@
 <br>
 
 <div align="center">
-  <p>Hello internet ! Moi c'est Jermiel, ingénieur conception et développement en alternance chez Groupama Support et Services et étudiant en MSc Pro Architecte Système d'Information à Epitech Paris. </p></br>
-  <p>Passionné par le cloud, l’architecture logicielle, les design patterns, je suis sur ma route (comme Black M le chanteur) pour devenir Cloud Solution Architect.</p>
-  <p>Je travaille sur des projets liés au cloud, à la blockchain, et à l'automatisation des processus critiques dans le domaine de la finance</p>
-  <p>🚀 Objectifs actuels : Maîtriser Spring Boot, Docker, Maven, DevOps, Technologie blockchain AWS, et obtenir une certification AWS très bientôt !</p>
+  <p>Hello internet 👋! Je suis Jermiel, ingénieur conception et développement en alternance chez Groupama Support et Services (G2S) et étudiant en MSc Pro Architecte Système d'Information à Epitech Paris. </p></br>
 </div>
 
 <br>
