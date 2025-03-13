@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4NXR5am55MzhxaGJ6c2RvaWlhbmgxYXBkbGJ6cTl0bHdidnZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EW9huyXfakC6k/giphy.gif" width="140" align="left"/> 
-      Bienvenu dans la matrix !
+      Welcome to the matrix!
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTc4NXR5am55MzhxaGJ6c2RvaWlhbmgxYXBkbGJ6cTl0bHdidnZ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EW9huyXfakC6k/giphy.gif" width="140" align="right"/> 
   </h1>   
 </div>
@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <p>Hello internet 👋! Je suis Jermiel, ingénieur conception et développement en alternance chez Groupama Support et Services (G2S) et étudiant en MSc Pro Architecte Système d'Information à Epitech Paris. </p></br>
+  <p>Hello internet 👋! I’m Jermiel, a Design & Development Engineer apprentice at Groupama Support et Services (G2S), and a MSc Information Systems Architecture student at Epitech Paris. </p></br>
 </div>
 
 <br>
