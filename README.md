@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <p>Hello internet 👋! I’m Jermiel, a Design & Development Engineer apprentice at Groupama Support et Services (G2S), and a MSc Information Systems Architecture student at Epitech Paris. </p></br>
+  <p>Hello internet 👋! I’m Jermiel, a Software Engineer apprentice at Groupama Support et Services (G2S), and a MSc Information Systems Architecture student at Epitech Paris. </p></br>
 </div>
 
 <br>
