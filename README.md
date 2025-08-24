@@ -25,11 +25,17 @@
   <img alt="Maven" src="https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
 </p>
 
+
+
+
 ---
 
 <h2>💻 &nbsp; Projets en cours</h2>
 
 ---
+
+
+
 
 <h2>📫 &nbsp; Où me trouver ?</h2>
 <p>
