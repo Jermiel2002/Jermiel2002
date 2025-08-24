@@ -14,8 +14,6 @@
 
 <br>
 
----
-
 <h2>🛠 &nbsp; Mes compétences</h2>
 <br>
 <p>
