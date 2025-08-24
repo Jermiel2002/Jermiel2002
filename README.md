@@ -17,7 +17,6 @@
 ---
 
 <h2>🛠 &nbsp; Mes compétences</h2>
-<br>
 <p>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
